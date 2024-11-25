@@ -1,0 +1,27 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Justin's Blog"
+
+[params]
+    displayName = "EN"
+    isoCode = "en"
+    rtl = false
+    dateFormat = "2 January 2006"
+    params.logo="params_log.png"
+#    secondaryLogo = "params_log.png"
+     description = "My awesome website"
+    # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+name = "Justin"
+email = "justinzhou955@gmail.com"
+image = "params_log.png"
+imageQuality = 96
+headline = "Nothing is True. Everything is permitted."
+bio = "To see the world, things dangerous to come to. To see behind walls. To draw closer. To find each other and to feel. That is the purpose of LIFE."
+links = [
+    { email = "mailto:justinzhou955@gmail.com" },
+    { github = "https://github.com/justinzjj" },
+]
