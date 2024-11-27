@@ -3,37 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/paper_reading/interchain-timestamping-for-mesh-security/</loc>
+    <loc>https://justinzjj.github.io/posts/paper_reading/</loc>
+    <lastmod>2024-11-27T19:35:27+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://justinzjj.github.io/</loc>
+    <lastmod>2024-11-27T19:35:27+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://justinzjj.github.io/posts/</loc>
+    <lastmod>2024-11-27T19:35:27+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://justinzjj.github.io/posts/paper_reading/interchain-timestamping-for-mesh-security/</loc>
     <lastmod>2024-11-25T19:35:27+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/paper_reading/</loc>
-    <lastmod>2024-11-25T19:35:27+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-25T19:35:27+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-11-25T19:35:27+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/paper_reading/a-circuit-approach-to-constructing-blockchains-on--blockchains/</loc>
+    <loc>https://justinzjj.github.io/posts/paper_reading/a-circuit-approach-to-constructing-blockchains-on--blockchains/</loc>
     <lastmod>2024-11-25T19:05:27+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/%E5%B8%B8%E7%94%A8hugo%E5%91%BD%E4%BB%A4/</loc>
+    <loc>https://justinzjj.github.io/posts/%E5%B8%B8%E7%94%A8hugo%E5%91%BD%E4%BB%A4/</loc>
     <lastmod>2024-11-25T19:05:27+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
