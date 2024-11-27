@@ -1,4 +1,3 @@
-
 +++
 title = 'Light Clients for Lazy Blockchains'
 date = 2024-11-27T19:35:27+08:00
