@@ -1,6 +1,6 @@
 +++
 title = 'Light Clients for Lazy Blockchains'
-date = 2024-11-27T19:35:27+08:00
+date = 2024-11-27T18:37:09+08:00
 draft = false
 summary = "文章设计了一种协议，可以为惰性区块链创建高效的轻客户端。"
 author = "Justin"
