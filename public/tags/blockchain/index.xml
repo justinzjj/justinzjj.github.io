@@ -1,1 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BlockChain on Justin's Blog</title><link>https://justinzjj.github.io/tags/blockchain/</link><description>Recent content in BlockChain on Justin's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>justinzhou955@gmail.com (Justin)</managingEditor><webMaster>justinzhou955@gmail.com (Justin)</webMaster><copyright>© 2024 Justin</copyright><lastBuildDate>Wed, 27 Nov 2024 18:37:09 +0800</lastBuildDate><atom:link href="https://justinzjj.github.io/tags/blockchain/index.xml" rel="self" type="application/rss+xml"/><item><title>Light Clients for Lazy Blockchains</title><link>https://justinzjj.github.io/posts/paper_reading/light_clients_for_lazy_blockchains/</link><pubDate>Wed, 27 Nov 2024 18:37:09 +0800</pubDate><author>justinzhou955@gmail.com (Justin)</author><guid>https://justinzjj.github.io/posts/paper_reading/light_clients_for_lazy_blockchains/</guid><description>文章设计了一种协议，可以为惰性区块链创建高效的轻客户端。</description></item><item><title>A Circuit Approach to Constructing Blockchains on Blockchains</title><link>https://justinzjj.github.io/posts/paper_reading/a-circuit-approach-to-constructing-blockchains-on--blockchains/</link><pubDate>Mon, 25 Nov 2024 19:05:27 +0800</pubDate><author>justinzhou955@gmail.com (Justin)</author><guid>https://justinzjj.github.io/posts/paper_reading/a-circuit-approach-to-constructing-blockchains-on--blockchains/</guid><description>对一组给定的区块链，如何通过读写操作来构建更安全的覆盖区块链系统</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BlockChain on Justin&#39;s Blog</title>
+    <link>https://justinzjj.github.io/tags/blockchain/</link>
+    <description>Recent content in BlockChain on Justin&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>justinzhou955@gmail.com (Justin)</managingEditor>
+    <webMaster>justinzhou955@gmail.com (Justin)</webMaster>
+    <copyright>© 2024 Justin</copyright>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://justinzjj.github.io/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Scalable State Sharing Protocol for Low-Resource  Validator Nodes in Blockchain Networks</title>
+      <link>https://justinzjj.github.io/posts/paper_reading/a-scalable-state-sharing-protocol-for-low-resource--validator-nodes-in-blockchain-networks/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <author>justinzhou955@gmail.com (Justin)</author>
+      <guid>https://justinzjj.github.io/posts/paper_reading/a-scalable-state-sharing-protocol-for-low-resource--validator-nodes-in-blockchain-networks/</guid>
+      <description>用带宽换取了节点存储</description>
+      
+    </item>
+    
+    <item>
+      <title>Light Clients for Lazy Blockchains</title>
+      <link>https://justinzjj.github.io/posts/paper_reading/light_clients_for_lazy_blockchains/</link>
+      <pubDate>Wed, 27 Nov 2024 18:37:09 +0800</pubDate>
+      <author>justinzhou955@gmail.com (Justin)</author>
+      <guid>https://justinzjj.github.io/posts/paper_reading/light_clients_for_lazy_blockchains/</guid>
+      <description>文章设计了一种协议，可以为惰性区块链创建高效的轻客户端。</description>
+      
+    </item>
+    
+    <item>
+      <title>A Circuit Approach to Constructing Blockchains on  Blockchains</title>
+      <link>https://justinzjj.github.io/posts/paper_reading/a-circuit-approach-to-constructing-blockchains-on--blockchains/</link>
+      <pubDate>Mon, 25 Nov 2024 19:05:27 +0800</pubDate>
+      <author>justinzhou955@gmail.com (Justin)</author>
+      <guid>https://justinzjj.github.io/posts/paper_reading/a-circuit-approach-to-constructing-blockchains-on--blockchains/</guid>
+      <description>对一组给定的区块链，如何通过读写操作来构建更安全的覆盖区块链系统</description>
+      
+    </item>
+    
+  </channel>
+</rss>

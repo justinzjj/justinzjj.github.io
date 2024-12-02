@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lazy Blockchain on Justin's Blog</title><link>https://justinzjj.github.io/tags/lazy-blockchain/</link><description>Recent content in Lazy Blockchain on Justin's Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>justinzhou955@gmail.com (Justin)</managingEditor><webMaster>justinzhou955@gmail.com (Justin)</webMaster><copyright>© 2024 Justin</copyright><lastBuildDate>Wed, 27 Nov 2024 18:37:09 +0800</lastBuildDate><atom:link href="https://justinzjj.github.io/tags/lazy-blockchain/index.xml" rel="self" type="application/rss+xml"/><item><title>Light Clients for Lazy Blockchains</title><link>https://justinzjj.github.io/posts/paper_reading/light_clients_for_lazy_blockchains/</link><pubDate>Wed, 27 Nov 2024 18:37:09 +0800</pubDate><author>justinzhou955@gmail.com (Justin)</author><guid>https://justinzjj.github.io/posts/paper_reading/light_clients_for_lazy_blockchains/</guid><description>文章设计了一种协议，可以为惰性区块链创建高效的轻客户端。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lazy Blockchain on Justin&#39;s Blog</title>
+    <link>https://justinzjj.github.io/tags/lazy-blockchain/</link>
+    <description>Recent content in Lazy Blockchain on Justin&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>justinzhou955@gmail.com (Justin)</managingEditor>
+    <webMaster>justinzhou955@gmail.com (Justin)</webMaster>
+    <copyright>© 2024 Justin</copyright>
+    <lastBuildDate>Wed, 27 Nov 2024 18:37:09 +0800</lastBuildDate><atom:link href="https://justinzjj.github.io/tags/lazy-blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Light Clients for Lazy Blockchains</title>
+      <link>https://justinzjj.github.io/posts/paper_reading/light_clients_for_lazy_blockchains/</link>
+      <pubDate>Wed, 27 Nov 2024 18:37:09 +0800</pubDate>
+      <author>justinzhou955@gmail.com (Justin)</author>
+      <guid>https://justinzjj.github.io/posts/paper_reading/light_clients_for_lazy_blockchains/</guid>
+      <description>文章设计了一种协议，可以为惰性区块链创建高效的轻客户端。</description>
+      
+    </item>
+    
+  </channel>
+</rss>
