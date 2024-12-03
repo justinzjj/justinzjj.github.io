@@ -1,7 +1,7 @@
 +++
 title = 'Interchain Timestamping for Mesh Security'
 date = 2024-11-25T19:35:27+08:00
-draft = true
+draft = false
 summary = "文章设计了名为“Interchain Timestamping”的协议，使得可以底层链获取最优的安全性"
 author = "Justin"
 tags = ["Paper Reading","timestamping","blockChain"]
